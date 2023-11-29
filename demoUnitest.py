@@ -54,3 +54,7 @@ class TestLogin(unittest.TestCase):
         # @parameterized.expand表示调用
         # self表示什么意思
         # status是不是可以提前定义
+添加里点击头像jenkins配置ssh 添加id_rsa 文件内容
+ 指定分支选择git里的分支
+if __name__ == '__main__':
+    unittest.main()
